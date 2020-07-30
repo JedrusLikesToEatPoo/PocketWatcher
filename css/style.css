@@ -1,0 +1,56 @@
+body {
+	background-color: rgb(255, 255, 255);
+	background-image: url("");
+	background-repeat: repeat;
+	margin: 0px 0px;
+}
+
+header {
+	text-align: left;
+	width: 100vw;
+	height: 48px;
+    border-bottom: 2px solid rgba(255, 0, 0, 1);
+    background-color: rgba(255, 255, 0, 1);
+	font-size: 40px;
+    font-family: 'Roboto';
+	padding: 2px 2px;
+}
+
+.youtube {
+	width: 36px;
+	position: absolute;
+	top: 8px;
+	left: 8px;
+}
+
+.twitch {
+	width: 36px;
+	position: absolute;
+	top: 8px;
+	left: 8px;
+}
+
+.twitter {
+	width: 36px;
+	position: absolute;
+	top: 8px;
+	left: 8px;
+}
+
+.discord {
+	width: 36px;
+	position: absolute;
+	top: 8px;
+	left: 8px;
+}
+
+.LeftBox {
+	left: 0vw;
+	height: 100vh;
+	width: 48px;
+	position: relative;
+    background-color: rgba(255, 255, 0, 1);
+	margin: 0px 0px;
+	padding: 2px 2px;
+	border-right: 2px solid rgba(255, 0, 0, 1);
+}
