@@ -62,7 +62,7 @@ header {
 }
 
 .quotes {
-	color: rgba(5, 172, 255, 1);
+	color: rgba(255, 0, 0, 1);
 	font-size: 40px;
 	font-family: 'Josefin Sans', sans-serif;
     transition: color .6s;
@@ -72,8 +72,41 @@ header {
 	top: 80px;
 }
 .quotes:hover {
-	color: rgba(255, 0, 0, 1);
+	color: rgba(5, 172, 255, 1);
     transition: color .6s;
 	text-decoration: none;
 }
 
+.genikal {
+	font-size: 25px;
+	font-family: 'Noto Sans SC', sans-serif;
+	color: rgba(5, 134, 255, 1);
+	position: absolute;
+	left: 40px;
+	top: 150px;
+}
+.PLACEHOLDER {
+	font-size: 20px;
+	font-family: 'Noto Sans SC', sans-serif;
+	color: rgba(255, 0, 0, 1);
+	position: absolute;
+	left: 10px;
+	top: 185px;
+}
+
+.orb {
+	font-size: 25px;
+	font-family: 'Noto Sans SC', sans-serif;
+	color: rgba(5, 134, 255, 1);
+	position: absolute;
+	left: 40px;
+	top: 240px;
+}
+.orbquote {
+	font-size: 20px;
+	font-family: 'Noto Sans SC', sans-serif;
+	color: rgba(255, 0, 0, 1);
+	position: absolute;
+	left: 10px;
+	top: 275px;
+}
