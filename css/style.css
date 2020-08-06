@@ -15,6 +15,7 @@ header {
 	font-size: 40px;
     font-family: 'Lexend Zetta', sans-serif;
 	padding: 4px 4px;
+	text-decoration: none;
 }
 
 .youtube {
@@ -77,3 +78,64 @@ header {
 	text-decoration: none;
 }
 
+.home {
+	color: rgba(255, 0, 0, 1);
+	font-size: 40px;
+	font-family: 'Josefin Sans', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	right: 10px;
+	top: 80px;
+}
+.home:hover {
+	color: rgba(5, 172, 255, 1);
+    transition: color .6s;
+	text-decoration: none;
+}
+
+.abouttitle {
+	position: absolute;
+	top: 160px;
+	left: 626px;
+    font-family: 'Lexend Zetta', sans-serif;
+	font-size: 50px;
+	text-align: center;
+	color: rgba(255, 0, 0, 1);
+}
+.aboutdesc {
+	position: absolute;
+	top: 289px;
+	left: 550px;
+	font-family: 'Noto Sans SC', sans-serif;
+	font-size: 25px;
+	text-align: center;
+	color: rgba(5, 172, 255, 1);
+}
+.aboutdesc2 {
+	position: absolute;
+	top: 349px;
+	left: 397px;
+	font-family: 'Noto Sans SC', sans-serif;
+	font-size: 25px;
+	text-align: center;
+	color: rgba(5, 172, 255, 1);
+}
+.aboutdesc3 {
+	position: absolute;
+	top: 415px;
+	left: 429px;
+	font-family: 'Noto Sans SC', sans-serif;
+	font-size: 25px;
+	text-align: center;
+	color: rgba(5, 172, 255, 1);
+}
+.aboutdesc4 {
+	position: absolute;
+	top: 485px;
+	left: 394px;
+	font-family: 'Noto Sans SC', sans-serif;
+	font-size: 25px;
+	text-align: center;
+	color: rgba(5, 172, 255, 1);
+}
