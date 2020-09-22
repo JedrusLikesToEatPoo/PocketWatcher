@@ -121,21 +121,3 @@ header {
 	top: 185px;
 }
 
-.charlie {
-	font-size: 25px;
-	font-family: 'Noto Sans SC', sans-serif;
-	color: rgba(5, 134, 255, 1);
-	position: absolute;
-	left: 40px;
-	top: 230px;
-}
-.orange {
-	font-size: 20px;
-	font-family: 'Noto Sans SC', sans-serif;
-	color: rgba(255, 0, 0, 1);
-	position: absolute;
-	left: 10px;
-	top: 265px;
-}
-
-

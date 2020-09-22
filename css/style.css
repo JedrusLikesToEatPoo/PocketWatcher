@@ -106,45 +106,40 @@ header {
 }
 
 .abouttitle {
-	position: absolute;
-	top: 160px;
-	left: 626px;
+	position: relative;
+	top: 120px;
     font-family: 'Lexend Zetta', sans-serif;
 	font-size: 50px;
 	text-align: center;
 	color: rgba(255, 0, 0, 1);
 }
 .aboutdesc {
-	position: absolute;
-	top: 289px;
-	left: 550px;
+	position: relative;
+	top: 180px;
 	font-family: 'Noto Sans SC', sans-serif;
 	font-size: 25px;
 	text-align: center;
 	color: rgba(5, 172, 255, 1);
 }
 .aboutdesc2 {
-	position: absolute;
-	top: 349px;
-	left: 397px;
+	position: relative;
+	top: 220px;
 	font-family: 'Noto Sans SC', sans-serif;
 	font-size: 25px;
 	text-align: center;
 	color: rgba(5, 172, 255, 1);
 }
 .aboutdesc3 {
-	position: absolute;
-	top: 415px;
-	left: 429px;
+	position: relative;
+	top: 260px;
 	font-family: 'Noto Sans SC', sans-serif;
 	font-size: 25px;
 	text-align: center;
 	color: rgba(5, 172, 255, 1);
 }
 .aboutdesc4 {
-	position: absolute;
-	top: 485px;
-	left: 394px;
+	position: relative;
+	top: 300px;
 	font-family: 'Noto Sans SC', sans-serif;
 	font-size: 25px;
 	text-align: center;
