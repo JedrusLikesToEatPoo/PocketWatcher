@@ -1,0 +1,297 @@
+body {
+	background-color: rgb(10, 10, 10);
+	background-image: url("");
+	background-repeat: repeat;
+	margin: 0px 0px;
+}
+
+header {
+	text-align: left;
+	width: 100%;
+	height: 48px;
+    border-bottom: 2px solid rgba(5, 134, 255, 1);
+    background-color: rgba(25, 25, 25, 1);
+	color: rgba(5, 134, 255, 1);
+	font-size: 40px;
+    font-family: 'Lexend Zetta', sans-serif;
+	text-decoration: none;
+}
+
+.youtube {
+	width: 36px;
+	position: absolute;
+	top: 15px;
+	right: 8px;
+}
+
+.twitch {
+	width: 36px;
+	position: absolute;
+	top: 10px;
+	right: 54px;
+}
+
+.twitter {
+	width: 36px;
+	position: absolute;
+	top: 14px;
+	right: 100px;
+}
+
+.discord {
+	width: 36px;
+	position: absolute;
+	top: 15px;
+	right: 145px;
+}
+
+.videos {
+	color: rgba(5, 172, 255, 1);
+	font-size: 40px;
+	font-family: 'Josefin Sans', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 10px;
+	top: 80px;
+}
+.videos:hover {
+	color: rgba(255, 0, 0, 1);
+    transition: color .6s;
+	text-decoration: none;
+}
+
+.quotes {
+	color: rgba(5, 172, 255, 1);
+	font-size: 40px;
+	font-family: 'Josefin Sans', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 160px;
+	top: 80px;
+}
+.quotes:hover {
+	color: rgba(255, 0, 0, 1);
+    transition: color .6s;
+	text-decoration: none;
+}
+
+.home {
+	color: rgba(5, 172, 255, 1);
+	font-size: 40px;
+	font-family: 'Josefin Sans', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	right: 10px;
+	top: 80px;
+}
+.home:hover {
+	color: rgba(255, 0, 0, 1);
+    transition: color .6s;
+	text-decoration: none;
+}
+
+.mods {
+	color: rgba(255, 0, 0, 1);
+	font-size: 40px;
+	font-family: 'Josefin Sans', sans-serif;
+    transition: color .6s;
+	position: absolute;
+	left: 320px;
+	top: 80px;
+	text-decoration: none;
+}
+
+.mod1 {
+	color: rgba(5, 172, 255, 1);
+	font-size: 25px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 10px;
+	top: 150px;
+}
+.mod1:visited {
+	color: rgba(255, 0, 255, 1);
+}
+.mod1desc {
+	color: rgba(255, 0, 0, 1);
+	font-size: 20px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 30px;
+	top: 185px;
+}
+
+.mod2 {
+	color: rgba(5, 172, 255, 1);
+	font-size: 25px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 10px;
+	top: 250px;
+}
+.mod2:visited {
+	color: rgba(255, 0, 255, 1);
+}
+.mod2desc {
+	color: rgba(255, 0, 0, 1);
+	font-size: 20px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 30px;
+	top: 285px;
+}
+
+.mod3 {
+	color: rgba(5, 172, 255, 1);
+	font-size: 25px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 10px;
+	top: 350px;
+}
+.mod3:visited {
+	color: rgba(255, 0, 255, 1);
+}
+.mod3desc {
+	color: rgba(255, 0, 0, 1);
+	font-size: 20px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 30px;
+	top: 385px;
+}
+
+.mod4 {
+	color: rgba(5, 172, 255, 1);
+	font-size: 25px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 10px;
+	top: 450px;
+}
+.mod4:visited {
+	color: rgba(255, 0, 255, 1);
+}
+.mod4desc {
+	color: rgba(255, 0, 0, 1);
+	font-size: 20px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 30px;
+	top: 485px;
+}
+
+.mod5 {
+	color: rgba(5, 172, 255, 1);
+	font-size: 25px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 10px;
+	top: 550px;
+}
+.mod5:visited {
+	color: rgba(255, 0, 255, 1);
+}
+.mod5desc {
+	color: rgba(255, 0, 0, 1);
+	font-size: 20px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 30px;
+	top: 585px;
+}
+
+.mod6 {
+	color: rgba(5, 172, 255, 1);
+	font-size: 25px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 10px;
+	top: 650px;
+}
+.mod6:visited {
+	color: rgba(255, 0, 255, 1);
+}
+.mod6desc {
+	color: rgba(255, 0, 0, 1);
+	font-size: 20px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 30px;
+	top: 685px;
+}
+
+.mod7 {
+	color: rgba(5, 172, 255, 1);
+	font-size: 25px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 10px;
+	top: 750px;
+}
+.mod7:visited {
+	color: rgba(255, 0, 255, 1);
+}
+.mod7desc {
+	color: rgba(255, 0, 0, 1);
+	font-size: 20px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 30px;
+	top: 785px;
+}
+
+.mod8 {
+	color: rgba(5, 172, 255, 1);
+	font-size: 25px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 10px;
+	top: 850px;
+}
+.mod8:visited {
+	color: rgba(255, 0, 255, 1);
+}
+.mod8desc {
+	color: rgba(255, 0, 0, 1);
+	font-size: 20px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 30px;
+	top: 885px;
+}
