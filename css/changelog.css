@@ -31,20 +31,6 @@ header {
 	right: 54px;
 }
 
-.twitter {
-	width: 36px;
-	position: absolute;
-	top: 14px;
-	right: 100px;
-}
-
-.discord {
-	width: 36px;
-	position: absolute;
-	top: 15px;
-	right: 145px;
-}
-
 .videos {
 	color: rgba(5, 172, 255, 1);
 	font-size: 40px;
@@ -53,25 +39,9 @@ header {
 	text-decoration: none;
 	position: absolute;
 	left: 10px;
-	top: 80px;
+	top: 65px;
 }
 .videos:hover {
-	color: rgba(255, 0, 0, 1);
-    transition: color .6s;
-	text-decoration: none;
-}
-
-.quotes {
-	color: rgba(5, 172, 255, 1);
-	font-size: 40px;
-	font-family: 'Josefin Sans', sans-serif;
-    transition: color .6s;
-	text-decoration: none;
-	position: absolute;
-	left: 160px;
-	top: 80px;
-}
-.quotes:hover {
 	color: rgba(255, 0, 0, 1);
     transition: color .6s;
 	text-decoration: none;
@@ -84,8 +54,8 @@ header {
     transition: color .6s;
 	text-decoration: none;
 	position: absolute;
-	left: 320px;
-	top: 80px;
+	left: 160px;
+	top: 65px;
 }
 .mods:hover {
 	color: rgba(255, 0, 0, 1);
@@ -101,7 +71,7 @@ header {
 	text-decoration: none;
 	position: absolute;
 	right: 10px;
-	top: 80px;
+	top: 65px;
 }
 .home:hover {
 	color: rgba(255, 0, 0, 1);
@@ -115,8 +85,8 @@ header {
 	font-family: 'Josefin Sans', sans-serif;
     transition: color .6s;
 	position: absolute;
-	left: 445px;
-	top: 80px;
+	left: 285px;
+	top: 65px;
 	text-decoration: none;
 }
 
@@ -124,6 +94,26 @@ header {
 	position: absolute;
 	top: 140px;
 	left: 10px;
+	font-family: 'Noto Sans SC', sans-serif;
+	font-size: 22px;
+	text-align: center;
+	color: rgba(255, 0, 0, 1);
+}
+
+.c2 {
+	position: absolute;
+	top: 180px;
+	left: 10px;
+	font-family: 'Noto Sans SC', sans-serif;
+	font-size: 22px;
+	text-align: center;
+	color: rgba(255, 0, 0, 1);
+}
+
+.c2a {
+	position: absolute;
+	top: 210px;
+	left: 50px;
 	font-family: 'Noto Sans SC', sans-serif;
 	font-size: 22px;
 	text-align: center;
