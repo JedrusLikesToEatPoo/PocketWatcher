@@ -1,0 +1,206 @@
+body {
+	background-color: rgb(10, 10, 10);
+	background-image: url("");
+	background-repeat: repeat;
+	margin: 0px 0px;
+}
+
+header {
+	text-align: left;
+	width: 100%;
+	height: 48px;
+    border-bottom: 2px solid rgba(5, 134, 255, 1);
+    background-color: rgba(25, 25, 25, 1);
+	color: rgba(5, 134, 255, 1);
+	font-size: 40px;
+    font-family: 'Lexend Zetta', sans-serif;
+	text-decoration: none;
+}
+
+.youtube {
+	width: 36px;
+	position: absolute;
+	top: 15px;
+	right: 8px;
+}
+
+.twitch {
+	width: 36px;
+	position: absolute;
+	top: 10px;
+	right: 54px;
+}
+
+.videos {
+	color: rgba(5, 172, 255, 1);
+	font-size: 40px;
+	font-family: 'Josefin Sans', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 10px;
+	top: 65px;
+}
+.videos:hover {
+	color: rgba(255, 0, 0, 1);
+    transition: color .6s;
+	text-decoration: none;
+}
+
+.home {
+	color: rgba(5, 172, 255, 1);
+	font-size: 40px;
+	font-family: 'Josefin Sans', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	right: 10px;
+	top: 65px;
+}
+.home:hover {
+	color: rgba(255, 0, 0, 1);
+    transition: color .6s;
+	text-decoration: none;
+}
+
+.changelog {
+	color: rgba(5, 172, 255, 1);
+	font-size: 40px;
+	font-family: 'Josefin Sans', sans-serif;
+    transition: color .6s;
+	position: absolute;
+	left: 285px;
+	top: 65px;
+	text-decoration: none;
+}
+.changelog:hover {
+	color: rgba(255, 0, 0, 1);
+    transition: color .6s;
+	text-decoration: none;
+}
+
+.mods {
+	color: rgba(255, 0, 0, 1);
+	font-size: 40px;
+	font-family: 'Josefin Sans', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 160px;
+	top: 65px;
+}
+
+.changelog {
+	color: rgba(5, 172, 255, 1);
+	font-size: 40px;
+	font-family: 'Josefin Sans', sans-serif;
+    transition: color .6s;
+	position: absolute;
+	left: 285px;
+	top: 65px;
+	text-decoration: none;
+}
+.changelog:hover {
+	color: rgba(255, 0, 0, 1);
+    transition: color .6s;
+	text-decoration: none;
+}
+
+.pd2gameplay {
+	color: rgba(5, 172, 255, 1);
+	font-size: 35px;
+	font-family: 'Josefin Sans', sans-serif;
+    transition: color .6s;
+	position: absolute;
+	left: 30px;
+	top: 110px;
+	text-decoration: none;
+}
+.pd2gameplay:hover {
+	color: rgba(255, 0, 0, 1);
+    transition: color .6s;
+	text-decoration: none;
+}
+
+.pd2music {
+	color: rgba(255, 0, 0, 1);
+	font-size: 35px;
+	font-family: 'Josefin Sans', sans-serif;
+    transition: color .6s;
+	position: absolute;
+	left: 220px;
+	top: 110px;
+	text-decoration: none;
+}
+
+.mod1 {
+	color: rgba(5, 172, 255, 1);
+	font-size: 25px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 10px;
+	top: 150px;
+}
+.mod1:visited {
+	color: rgba(255, 0, 255, 1);
+}
+.mod1artist {
+	color: rgba(255, 0, 0, 1);
+	font-size: 20px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 70px;
+	top: 185px;
+}
+
+.mod2 {
+	color: rgba(5, 172, 255, 1);
+	font-size: 25px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 10px;
+	top: 250px;
+}
+.mod2:visited {
+	color: rgba(255, 0, 255, 1);
+}
+.mod2artist {
+	color: rgba(255, 0, 0, 1);
+	font-size: 20px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 70px;
+	top: 285px;
+}
+
+.mod3 {
+	color: rgba(5, 172, 255, 1);
+	font-size: 25px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 10px;
+	top: 350px;
+}
+.mod3:visited {
+	color: rgba(255, 0, 255, 1);
+}
+.mod3artist {
+	color: rgba(255, 0, 0, 1);
+	font-size: 20px;
+	font-family: 'Noto Sans SC', sans-serif;
+    transition: color .6s;
+	text-decoration: none;
+	position: absolute;
+	left: 70px;
+	top: 385px;
+}
