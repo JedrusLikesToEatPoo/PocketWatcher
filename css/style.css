@@ -31,6 +31,12 @@ header {
 	right: 54px;
 }
 
+.discordwidget {
+	position: absolute;
+	top: 45%;
+	left: 80%;
+}
+
 .videos {
 	color: rgba(5, 172, 255, 1);
 	font-size: 40px;
