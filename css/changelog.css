@@ -20,15 +20,22 @@ header {
 .youtube {
 	width: 36px;
 	position: absolute;
-	top: 15px;
-	right: 8px;
+	top: 10px;
+	right: 56px;
 }
 
 .twitch {
 	width: 36px;
 	position: absolute;
-	top: 10px;
-	right: 54px;
+	top: 5px;
+	right: 104px;
+}
+
+.twitter {
+	width: 36px;
+	position: absolute;
+	top: 7px;
+	right: 11px;
 }
 
 .videos {
